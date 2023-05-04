@@ -1,1 +1,1 @@
-# antontatur.github.io
+# Repository with examples of works by Tatur Anton
